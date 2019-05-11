@@ -1,0 +1,28 @@
+{
+  "name": "chattrbox-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlecD06/Chattrbox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlecD06/Chattrbox/issues"
+  },
+  "homepage": "https://github.com/AlecD06/Chattrbox#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "dependencies": {
+    "ws": "^7.0.0"
+  }
+}
